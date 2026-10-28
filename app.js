@@ -1,5 +1,6 @@
+
 function add(a, b) {
-    return a - b; // intentional bug for testing
+    return a + b;
 }
 
 module.exports = { add };
